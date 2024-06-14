@@ -1,0 +1,18 @@
+{
+    "uid": "", 
+    "useStringUserId": true,
+
+    "appId": "2763b7a296c34dc98913be7641da5a57",
+    "channelName": "",
+    "token": "",
+    "serverUrl": "http://localhost:5678",
+    "tokenExpiryTime": "3600",
+    "encryptionMode": 1,
+    "salt": "",
+    "cipherKey": "",
+    "presenceTimeout": 300,
+    "logUpload": false,
+    "logLevel": "debug",
+    "cloudProxy": true,
+    "rtcToken": ""
+}
